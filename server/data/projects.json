@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "E-commerce Website",
+        "description": "A fully functional e-commerce platform built using MERN stack (MongoDB, Express.js, React.js, Node.js). Users can browse products, add them to cart, and complete the purchase securely.",
+        "technology": "MERN stack",
+        "image": "https://mockframe.com/images/blog/best-mockup-software.png",
+        "key_points": [
+            "Integrated payment gateway for secure transactions",
+            "Responsive design for optimal viewing on various devices",
+            "User authentication and authorization system"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Inventory Management System",
+        "description": "A comprehensive inventory management system developed in Java using Spring Boot framework. It allows users to track stock levels, manage suppliers, and generate reports.",
+        "technology": "Java, Spring Boot",
+        "image": "https://www.projectmanager.com/wp-content/uploads/2022/08/Inventory-Template-1536x864.png",
+        "key_points": [
+            "Real-time updates on stock levels and transactions",
+            "Role-based access control for enhanced security",
+            "Automated reporting functionality for easy analysis"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mobile Health App",
+        "description": "A mobile application designed to help users track their fitness goals and monitor their health metrics. Developed using Flutter framework for cross-platform compatibility.",
+        "technology": "Flutter",
+        "image": "https://en.pimg.jp/068/766/654/1/68766654.jpg",
+        "key_points": [
+            "Sync data across multiple devices for seamless experience",
+            "Integration with wearable devices for automatic data collection",
+            "Personalized recommendations based on user activity"
+        ]
+    }
+]
